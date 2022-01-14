@@ -17,3 +17,5 @@ Tengo 19 años y soy un futuro estudiante de la carrera de licenciatura en siste
 
 # Mis redes sociales! 📲
 
+<img src="https://img.shields.io/badge/pedrooyarzun%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+
