@@ -1,21 +1,21 @@
-# Hola, soy Pedro!👋
+# Hi, I'm Pedro!👋
 
-Mi nombre es Pedro Oyarzun, pero todos me dicen Pedro (para la gente de internet soy pedrooyarzun o similares jaja).
-Tengo 19 años y soy un futuro estudiante de la carrera de licenciatura en sistemas.
+My name is Pedro Oyarzun, but everyone calls me Pedro (for the people of internet I'm pedrooyarzun or similiar users haha).
+I am 19 years old and I'm a student  of IT
 
-# Educación 👨‍🎓
+# Education 👨‍🎓
 
 2018 - 2021 | Bachillerato Tecnologico en Informática con énfasis en desarrollo web.
 
-# ¿Que tecnologías manejo? 👨‍💻
+# What technologies do I use? 👨‍💻
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrooyarzun-uy&layout=compact)
 
-# Mis estadisticas 🕵️‍♂️
+# My Stats 🕵️‍♂️🚀
 
-![Carlos github stats](https://github-readme-stats.vercel.app/api?username=pedrooyarzun-uy&show_icons=true&theme=radical)
+![Pedro github stats](https://github-readme-stats.vercel.app/api?username=pedrooyarzun-uy&show_icons=true&theme=radical)
 
-# Mis redes sociales! 📲
+# Social Media 📲
 
 <img src="https://img.shields.io/badge/pedrooyarzun%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 
