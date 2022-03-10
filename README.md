@@ -2,7 +2,7 @@
 
 My name is Pedro Oyarzun, but everyone calls me Pedro (for the people of internet I'm pedrooyarzun or similiar users haha).
 
-I am 19 years old and I'm a student  of IT
+I am 19 years old and I'm a IT Student
 
 # Education 👨‍🎓
 
