@@ -3,7 +3,10 @@
 <p algin="left">Currently working for the National Agency of Research and Innovation of Uruguay.</p>
 
 [![committers.top badge](https://user-badge.committers.top/uruguay/pedrooyarzun-uy.svg)](https://user-badge.committers.top/uruguay/pedrooyarzun-uy)
+
 ---
+
 ![Snake animation](https://raw.githubusercontent.com/pedrooyarzun-uy/pedrooyarzun-uy/output/github-contribution-grid-snake-dark.svg)
+
 
 
